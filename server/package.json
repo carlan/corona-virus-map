@@ -12,10 +12,14 @@
   "author": "Carlan Calazans <carlan@getnada.com> (https://carlan.now.sh)",
   "license": "MIT",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "compression": "^1.7.4",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "helmet": "^3.21.2",
-    "morgan": "^1.9.1"
+    "morgan": "^1.9.1",
+    "request": "^2.88.0",
+    "user-agents": "^1.0.525"
   },
   "devDependencies": {
     "eslint": "^6.8.0",

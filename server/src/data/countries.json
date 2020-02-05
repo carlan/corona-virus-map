@@ -1,0 +1,2498 @@
+[{
+    "flag": "https://restcountries.eu/data/afg.svg",
+    "cioc": "AFG",
+    "name": "Afghanistan",
+    "alpha2Code": "AF",
+    "alpha3Code": "AFG",
+    "altSpellings": ["AF", "Afġānistān"],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "latlng": [33.0, 65.0]
+}, {
+    "flag": "https://restcountries.eu/data/ala.svg",
+    "cioc": "",
+    "name": "Åland Islands",
+    "alpha2Code": "AX",
+    "alpha3Code": "ALA",
+    "altSpellings": ["AX", "Aaland", "Aland", "Ahvenanmaa"],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [60.116667, 19.9]
+}, {
+    "flag": "https://restcountries.eu/data/alb.svg",
+    "cioc": "ALB",
+    "name": "Albania",
+    "alpha2Code": "AL",
+    "alpha3Code": "ALB",
+    "altSpellings": ["AL", "Shqipëri", "Shqipëria", "Shqipnia"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [41.0, 20.0]
+}, {
+    "flag": "https://restcountries.eu/data/dza.svg",
+    "cioc": "ALG",
+    "name": "Algeria",
+    "alpha2Code": "DZ",
+    "alpha3Code": "DZA",
+    "altSpellings": ["DZ", "Dzayer", "Algérie"],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "latlng": [28.0, 3.0]
+}, {
+    "flag": "https://restcountries.eu/data/asm.svg",
+    "cioc": "ASA",
+    "name": "American Samoa",
+    "alpha2Code": "AS",
+    "alpha3Code": "ASM",
+    "altSpellings": ["AS", "Amerika Sāmoa", "Amelika Sāmoa", "Sāmoa Amelika"],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "latlng": [-14.33333333, -170.0]
+}, {
+    "flag": "https://restcountries.eu/data/and.svg",
+    "cioc": "AND",
+    "name": "Andorra",
+    "alpha2Code": "AD",
+    "alpha3Code": "AND",
+    "altSpellings": ["AD", "Principality of Andorra", "Principat d'Andorra"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [42.5, 1.5]
+}, {
+    "flag": "https://restcountries.eu/data/ago.svg",
+    "cioc": "ANG",
+    "name": "Angola",
+    "alpha2Code": "AO",
+    "alpha3Code": "AGO",
+    "altSpellings": ["AO", "República de Angola", "ʁɛpublika de an'ɡɔla"],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "latlng": [-12.5, 18.5]
+}, {
+    "flag": "https://restcountries.eu/data/aia.svg",
+    "cioc": "",
+    "name": "Anguilla",
+    "alpha2Code": "AI",
+    "alpha3Code": "AIA",
+    "altSpellings": ["AI"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [18.25, -63.16666666]
+}, {
+    "flag": "https://restcountries.eu/data/ata.svg",
+    "cioc": "",
+    "name": "Antarctica",
+    "alpha2Code": "AQ",
+    "alpha3Code": "ATA",
+    "altSpellings": ["AQ"],
+    "region": "Polar",
+    "subregion": "",
+    "latlng": [-74.65, 4.48]
+}, {
+    "flag": "https://restcountries.eu/data/atg.svg",
+    "cioc": "ANT",
+    "name": "Antigua and Barbuda",
+    "alpha2Code": "AG",
+    "alpha3Code": "ATG",
+    "altSpellings": ["AG"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [17.05, -61.8]
+}, {
+    "flag": "https://restcountries.eu/data/arg.svg",
+    "cioc": "ARG",
+    "name": "Argentina",
+    "alpha2Code": "AR",
+    "alpha3Code": "ARG",
+    "altSpellings": ["AR", "Argentine Republic", "República Argentina"],
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [-34.0, -64.0]
+}, {
+    "flag": "https://restcountries.eu/data/arm.svg",
+    "cioc": "ARM",
+    "name": "Armenia",
+    "alpha2Code": "AM",
+    "alpha3Code": "ARM",
+    "altSpellings": ["AM", "Hayastan", "Republic of Armenia", "Հայաստանի Հանրապետություն"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [40.0, 45.0]
+}, {
+    "flag": "https://restcountries.eu/data/abw.svg",
+    "cioc": "ARU",
+    "name": "Aruba",
+    "alpha2Code": "AW",
+    "alpha3Code": "ABW",
+    "altSpellings": ["AW"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [12.5, -69.96666666]
+}, {
+    "flag": "https://restcountries.eu/data/aus.svg",
+    "cioc": "AUS",
+    "name": "Australia",
+    "alpha2Code": "AU",
+    "alpha3Code": "AUS",
+    "altSpellings": ["AU"],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "latlng": [-27.0, 133.0]
+}, {
+    "flag": "https://restcountries.eu/data/aut.svg",
+    "cioc": "AUT",
+    "name": "Austria",
+    "alpha2Code": "AT",
+    "alpha3Code": "AUT",
+    "altSpellings": ["AT", "Österreich", "Osterreich", "Oesterreich"],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "latlng": [47.33333333, 13.33333333]
+}, {
+    "flag": "https://restcountries.eu/data/aze.svg",
+    "cioc": "AZE",
+    "name": "Azerbaijan",
+    "alpha2Code": "AZ",
+    "alpha3Code": "AZE",
+    "altSpellings": ["AZ", "Republic of Azerbaijan", "Azərbaycan Respublikası"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [40.5, 47.5]
+}, {
+    "flag": "https://restcountries.eu/data/bhs.svg",
+    "cioc": "BAH",
+    "name": "Bahamas",
+    "alpha2Code": "BS",
+    "alpha3Code": "BHS",
+    "altSpellings": ["BS", "Commonwealth of the Bahamas"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [24.25, -76.0]
+}, {
+    "flag": "https://restcountries.eu/data/bhr.svg",
+    "cioc": "BRN",
+    "name": "Bahrain",
+    "alpha2Code": "BH",
+    "alpha3Code": "BHR",
+    "altSpellings": ["BH", "Kingdom of Bahrain", "Mamlakat al-Baḥrayn"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [26.0, 50.55]
+}, {
+    "flag": "https://restcountries.eu/data/bgd.svg",
+    "cioc": "BAN",
+    "name": "Bangladesh",
+    "alpha2Code": "BD",
+    "alpha3Code": "BGD",
+    "altSpellings": ["BD", "People's Republic of Bangladesh", "Gônôprôjatôntri Bangladesh"],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "latlng": [24.0, 90.0]
+}, {
+    "flag": "https://restcountries.eu/data/brb.svg",
+    "cioc": "BAR",
+    "name": "Barbados",
+    "alpha2Code": "BB",
+    "alpha3Code": "BRB",
+    "altSpellings": ["BB"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [13.16666666, -59.53333333]
+}, {
+    "flag": "https://restcountries.eu/data/blr.svg",
+    "cioc": "BLR",
+    "name": "Belarus",
+    "alpha2Code": "BY",
+    "alpha3Code": "BLR",
+    "altSpellings": ["BY", "Bielaruś", "Republic of Belarus", "Белоруссия", "Республика Беларусь", "Belorussiya", "Respublika Belarus’"],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "latlng": [53.0, 28.0]
+}, {
+    "flag": "https://restcountries.eu/data/bel.svg",
+    "cioc": "BEL",
+    "name": "Belgium",
+    "alpha2Code": "BE",
+    "alpha3Code": "BEL",
+    "altSpellings": ["BE", "België", "Belgie", "Belgien", "Belgique", "Kingdom of Belgium", "Koninkrijk België", "Royaume de Belgique", "Königreich Belgien"],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "latlng": [50.83333333, 4.0]
+}, {
+    "flag": "https://restcountries.eu/data/blz.svg",
+    "cioc": "BIZ",
+    "name": "Belize",
+    "alpha2Code": "BZ",
+    "alpha3Code": "BLZ",
+    "altSpellings": ["BZ"],
+    "region": "Americas",
+    "subregion": "Central America",
+    "latlng": [17.25, -88.75]
+}, {
+    "flag": "https://restcountries.eu/data/ben.svg",
+    "cioc": "BEN",
+    "name": "Benin",
+    "alpha2Code": "BJ",
+    "alpha3Code": "BEN",
+    "altSpellings": ["BJ", "Republic of Benin", "République du Bénin"],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [9.5, 2.25]
+}, {
+    "flag": "https://restcountries.eu/data/bmu.svg",
+    "cioc": "BER",
+    "name": "Bermuda",
+    "alpha2Code": "BM",
+    "alpha3Code": "BMU",
+    "altSpellings": ["BM", "The Islands of Bermuda", "The Bermudas", "Somers Isles"],
+    "region": "Americas",
+    "subregion": "Northern America",
+    "latlng": [32.33333333, -64.75]
+}, {
+    "flag": "https://restcountries.eu/data/btn.svg",
+    "cioc": "BHU",
+    "name": "Bhutan",
+    "alpha2Code": "BT",
+    "alpha3Code": "BTN",
+    "altSpellings": ["BT", "Kingdom of Bhutan"],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "latlng": [27.5, 90.5]
+}, {
+    "flag": "https://restcountries.eu/data/bol.svg",
+    "cioc": "BOL",
+    "name": "Bolivia (Plurinational State of)",
+    "alpha2Code": "BO",
+    "alpha3Code": "BOL",
+    "altSpellings": ["BO", "Buliwya", "Wuliwya", "Plurinational State of Bolivia", "Estado Plurinacional de Bolivia", "Buliwya Mamallaqta", "Wuliwya Suyu", "Tetã Volívia"],
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [-17.0, -65.0]
+}, {
+    "flag": "https://restcountries.eu/data/bes.svg",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "alpha2Code": "BQ",
+    "alpha3Code": "BES",
+    "altSpellings": ["BQ", "Boneiru"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [12.15, -68.266667]
+}, {
+    "flag": "https://restcountries.eu/data/bih.svg",
+    "cioc": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "alpha2Code": "BA",
+    "alpha3Code": "BIH",
+    "altSpellings": ["BA", "Bosnia-Herzegovina", "Босна и Херцеговина"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [44.0, 18.0]
+}, {
+    "flag": "https://restcountries.eu/data/bwa.svg",
+    "cioc": "BOT",
+    "name": "Botswana",
+    "alpha2Code": "BW",
+    "alpha3Code": "BWA",
+    "altSpellings": ["BW", "Republic of Botswana", "Lefatshe la Botswana"],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "latlng": [-22.0, 24.0]
+}, {
+    "flag": "https://restcountries.eu/data/bvt.svg",
+    "cioc": "",
+    "name": "Bouvet Island",
+    "alpha2Code": "BV",
+    "alpha3Code": "BVT",
+    "altSpellings": ["BV", "Bouvetøya", "Bouvet-øya"],
+    "region": "",
+    "subregion": "",
+    "latlng": [-54.43333333, 3.4]
+}, {
+    "flag": "https://restcountries.eu/data/bra.svg",
+    "cioc": "BRA",
+    "name": "Brazil",
+    "alpha2Code": "BR",
+    "alpha3Code": "BRA",
+    "altSpellings": ["BR", "Brasil", "Federative Republic of Brazil", "República Federativa do Brasil"],
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [-10.0, -55.0]
+}, {
+    "flag": "https://restcountries.eu/data/iot.svg",
+    "cioc": "",
+    "name": "British Indian Ocean Territory",
+    "alpha2Code": "IO",
+    "alpha3Code": "IOT",
+    "altSpellings": ["IO"],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [-6.0, 71.5]
+}, {
+    "flag": "https://restcountries.eu/data/umi.svg",
+    "cioc": "",
+    "name": "United States Minor Outlying Islands",
+    "alpha2Code": "UM",
+    "alpha3Code": "UMI",
+    "altSpellings": ["UM"],
+    "region": "Americas",
+    "subregion": "Northern America",
+    "latlng": []
+}, {
+    "flag": "https://restcountries.eu/data/vgb.svg",
+    "cioc": "IVB",
+    "name": "Virgin Islands (British)",
+    "alpha2Code": "VG",
+    "alpha3Code": "VGB",
+    "altSpellings": ["VG"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [18.431383, -64.62305]
+}, {
+    "flag": "https://restcountries.eu/data/vir.svg",
+    "cioc": "ISV",
+    "name": "Virgin Islands (U.S.)",
+    "alpha2Code": "VI",
+    "alpha3Code": "VIR",
+    "altSpellings": ["VI", "USVI", "American Virgin Islands", "U.S. Virgin Islands"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [18.34, -64.93]
+}, {
+    "flag": "https://restcountries.eu/data/brn.svg",
+    "cioc": "BRU",
+    "name": "Brunei Darussalam",
+    "alpha2Code": "BN",
+    "alpha3Code": "BRN",
+    "altSpellings": ["BN", "Nation of Brunei", " the Abode of Peace"],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [4.5, 114.66666666]
+}, {
+    "flag": "https://restcountries.eu/data/bgr.svg",
+    "cioc": "BUL",
+    "name": "Bulgaria",
+    "alpha2Code": "BG",
+    "alpha3Code": "BGR",
+    "altSpellings": ["BG", "Republic of Bulgaria", "Република България"],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "latlng": [43.0, 25.0]
+}, {
+    "flag": "https://restcountries.eu/data/bfa.svg",
+    "cioc": "BUR",
+    "name": "Burkina Faso",
+    "alpha2Code": "BF",
+    "alpha3Code": "BFA",
+    "altSpellings": ["BF"],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [13.0, -2.0]
+}, {
+    "flag": "https://restcountries.eu/data/bdi.svg",
+    "cioc": "BDI",
+    "name": "Burundi",
+    "alpha2Code": "BI",
+    "alpha3Code": "BDI",
+    "altSpellings": ["BI", "Republic of Burundi", "Republika y'Uburundi", "République du Burundi"],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [-3.5, 30.0]
+}, {
+    "flag": "https://restcountries.eu/data/khm.svg",
+    "cioc": "CAM",
+    "name": "Cambodia",
+    "alpha2Code": "KH",
+    "alpha3Code": "KHM",
+    "altSpellings": ["KH", "Kingdom of Cambodia"],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [13.0, 105.0]
+}, {
+    "flag": "https://restcountries.eu/data/cmr.svg",
+    "cioc": "CMR",
+    "name": "Cameroon",
+    "alpha2Code": "CM",
+    "alpha3Code": "CMR",
+    "altSpellings": ["CM", "Republic of Cameroon", "République du Cameroun"],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "latlng": [6.0, 12.0]
+}, {
+    "flag": "https://restcountries.eu/data/can.svg",
+    "cioc": "CAN",
+    "name": "Canada",
+    "alpha2Code": "CA",
+    "alpha3Code": "CAN",
+    "altSpellings": ["CA"],
+    "region": "Americas",
+    "subregion": "Northern America",
+    "latlng": [60.0, -95.0]
+}, {
+    "flag": "https://restcountries.eu/data/cpv.svg",
+    "cioc": "CPV",
+    "name": "Cabo Verde",
+    "alpha2Code": "CV",
+    "alpha3Code": "CPV",
+    "altSpellings": ["CV", "Republic of Cabo Verde", "República de Cabo Verde"],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [16.0, -24.0]
+}, {
+    "flag": "https://restcountries.eu/data/cym.svg",
+    "cioc": "CAY",
+    "name": "Cayman Islands",
+    "alpha2Code": "KY",
+    "alpha3Code": "CYM",
+    "altSpellings": ["KY"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [19.5, -80.5]
+}, {
+    "flag": "https://restcountries.eu/data/caf.svg",
+    "cioc": "CAF",
+    "name": "Central African Republic",
+    "alpha2Code": "CF",
+    "alpha3Code": "CAF",
+    "altSpellings": ["CF", "Central African Republic", "République centrafricaine"],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "latlng": [7.0, 21.0]
+}, {
+    "flag": "https://restcountries.eu/data/tcd.svg",
+    "cioc": "CHA",
+    "name": "Chad",
+    "alpha2Code": "TD",
+    "alpha3Code": "TCD",
+    "altSpellings": ["TD", "Tchad", "Republic of Chad", "République du Tchad"],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "latlng": [15.0, 19.0]
+}, {
+    "flag": "https://restcountries.eu/data/chl.svg",
+    "cioc": "CHI",
+    "name": "Chile",
+    "alpha2Code": "CL",
+    "alpha3Code": "CHL",
+    "altSpellings": ["CL", "Republic of Chile", "República de Chile"],
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [-30.0, -71.0]
+}, {
+    "flag": "https://restcountries.eu/data/chn.svg",
+    "cioc": "CHN",
+    "name": "China",
+    "alpha2Code": "CN",
+    "alpha3Code": "CHN",
+    "altSpellings": ["CN", "Zhōngguó", "Zhongguo", "Zhonghua", "People's Republic of China", "中华人民共和国", "Zhōnghuá Rénmín Gònghéguó"],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "latlng": [35.0, 105.0]
+}, {
+    "flag": "https://restcountries.eu/data/cxr.svg",
+    "cioc": "",
+    "name": "Christmas Island",
+    "alpha2Code": "CX",
+    "alpha3Code": "CXR",
+    "altSpellings": ["CX", "Territory of Christmas Island"],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "latlng": [-10.5, 105.66666666]
+}, {
+    "flag": "https://restcountries.eu/data/cck.svg",
+    "cioc": "",
+    "name": "Cocos (Keeling) Islands",
+    "alpha2Code": "CC",
+    "alpha3Code": "CCK",
+    "altSpellings": ["CC", "Territory of the Cocos (Keeling) Islands", "Keeling Islands"],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "latlng": [-12.5, 96.83333333]
+}, {
+    "flag": "https://restcountries.eu/data/col.svg",
+    "cioc": "COL",
+    "name": "Colombia",
+    "alpha2Code": "CO",
+    "alpha3Code": "COL",
+    "altSpellings": ["CO", "Republic of Colombia", "República de Colombia"],
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [4.0, -72.0]
+}, {
+    "flag": "https://restcountries.eu/data/com.svg",
+    "cioc": "COM",
+    "name": "Comoros",
+    "alpha2Code": "KM",
+    "alpha3Code": "COM",
+    "altSpellings": ["KM", "Union of the Comoros", "Union des Comores", "Udzima wa Komori", "al-Ittiḥād al-Qumurī"],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [-12.16666666, 44.25]
+}, {
+    "flag": "https://restcountries.eu/data/cog.svg",
+    "cioc": "CGO",
+    "name": "Congo",
+    "alpha2Code": "CG",
+    "alpha3Code": "COG",
+    "altSpellings": ["CG", "Congo-Brazzaville"],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "latlng": [-1.0, 15.0]
+}, {
+    "flag": "https://restcountries.eu/data/cod.svg",
+    "cioc": "COD",
+    "name": "Congo (Democratic Republic of the)",
+    "alpha2Code": "CD",
+    "alpha3Code": "COD",
+    "altSpellings": ["CD", "DR Congo", "Congo-Kinshasa", "DRC"],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "latlng": [0.0, 25.0]
+}, {
+    "flag": "https://restcountries.eu/data/cok.svg",
+    "cioc": "COK",
+    "name": "Cook Islands",
+    "alpha2Code": "CK",
+    "alpha3Code": "COK",
+    "altSpellings": ["CK", "Kūki 'Āirani"],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "latlng": [-21.23333333, -159.76666666]
+}, {
+    "flag": "https://restcountries.eu/data/cri.svg",
+    "cioc": "CRC",
+    "name": "Costa Rica",
+    "alpha2Code": "CR",
+    "alpha3Code": "CRI",
+    "altSpellings": ["CR", "Republic of Costa Rica", "República de Costa Rica"],
+    "region": "Americas",
+    "subregion": "Central America",
+    "latlng": [10.0, -84.0]
+}, {
+    "flag": "https://restcountries.eu/data/hrv.svg",
+    "cioc": "CRO",
+    "name": "Croatia",
+    "alpha2Code": "HR",
+    "alpha3Code": "HRV",
+    "altSpellings": ["HR", "Hrvatska", "Republic of Croatia", "Republika Hrvatska"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [45.16666666, 15.5]
+}, {
+    "flag": "https://restcountries.eu/data/cub.svg",
+    "cioc": "CUB",
+    "name": "Cuba",
+    "alpha2Code": "CU",
+    "alpha3Code": "CUB",
+    "altSpellings": ["CU", "Republic of Cuba", "República de Cuba"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [21.5, -80.0]
+}, {
+    "flag": "https://restcountries.eu/data/cuw.svg",
+    "cioc": "",
+    "name": "Curaçao",
+    "alpha2Code": "CW",
+    "alpha3Code": "CUW",
+    "altSpellings": ["CW", "Curacao", "Kòrsou", "Country of Curaçao", "Land Curaçao", "Pais Kòrsou"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [12.116667, -68.933333]
+}, {
+    "flag": "https://restcountries.eu/data/cyp.svg",
+    "cioc": "CYP",
+    "name": "Cyprus",
+    "alpha2Code": "CY",
+    "alpha3Code": "CYP",
+    "altSpellings": ["CY", "Kýpros", "Kıbrıs", "Republic of Cyprus", "Κυπριακή Δημοκρατία", "Kıbrıs Cumhuriyeti"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [35.0, 33.0]
+}, {
+    "flag": "https://restcountries.eu/data/cze.svg",
+    "cioc": "CZE",
+    "name": "Czech Republic",
+    "alpha2Code": "CZ",
+    "alpha3Code": "CZE",
+    "altSpellings": ["CZ", "Česká republika", "Česko"],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "latlng": [49.75, 15.5]
+}, {
+    "flag": "https://restcountries.eu/data/dnk.svg",
+    "cioc": "DEN",
+    "name": "Denmark",
+    "alpha2Code": "DK",
+    "alpha3Code": "DNK",
+    "altSpellings": ["DK", "Danmark", "Kingdom of Denmark", "Kongeriget Danmark"],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [56.0, 10.0]
+}, {
+    "flag": "https://restcountries.eu/data/dji.svg",
+    "cioc": "DJI",
+    "name": "Djibouti",
+    "alpha2Code": "DJ",
+    "alpha3Code": "DJI",
+    "altSpellings": ["DJ", "Jabuuti", "Gabuuti", "Republic of Djibouti", "République de Djibouti", "Gabuutih Ummuuno", "Jamhuuriyadda Jabuuti"],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [11.5, 43.0]
+}, {
+    "flag": "https://restcountries.eu/data/dma.svg",
+    "cioc": "DMA",
+    "name": "Dominica",
+    "alpha2Code": "DM",
+    "alpha3Code": "DMA",
+    "altSpellings": ["DM", "Dominique", "Wai‘tu kubuli", "Commonwealth of Dominica"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [15.41666666, -61.33333333]
+}, {
+    "flag": "https://restcountries.eu/data/dom.svg",
+    "cioc": "DOM",
+    "name": "Dominican Republic",
+    "alpha2Code": "DO",
+    "alpha3Code": "DOM",
+    "altSpellings": ["DO"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [19.0, -70.66666666]
+}, {
+    "flag": "https://restcountries.eu/data/ecu.svg",
+    "cioc": "ECU",
+    "name": "Ecuador",
+    "alpha2Code": "EC",
+    "alpha3Code": "ECU",
+    "altSpellings": ["EC", "Republic of Ecuador", "República del Ecuador"],
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [-2.0, -77.5]
+}, {
+    "flag": "https://restcountries.eu/data/egy.svg",
+    "cioc": "EGY",
+    "name": "Egypt",
+    "alpha2Code": "EG",
+    "alpha3Code": "EGY",
+    "altSpellings": ["EG", "Arab Republic of Egypt"],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "latlng": [27.0, 30.0]
+}, {
+    "flag": "https://restcountries.eu/data/slv.svg",
+    "cioc": "ESA",
+    "name": "El Salvador",
+    "alpha2Code": "SV",
+    "alpha3Code": "SLV",
+    "altSpellings": ["SV", "Republic of El Salvador", "República de El Salvador"],
+    "region": "Americas",
+    "subregion": "Central America",
+    "latlng": [13.83333333, -88.91666666]
+}, {
+    "flag": "https://restcountries.eu/data/gnq.svg",
+    "cioc": "GEQ",
+    "name": "Equatorial Guinea",
+    "alpha2Code": "GQ",
+    "alpha3Code": "GNQ",
+    "altSpellings": ["GQ", "Republic of Equatorial Guinea", "República de Guinea Ecuatorial", "République de Guinée équatoriale", "República da Guiné Equatorial"],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "latlng": [2.0, 10.0]
+}, {
+    "flag": "https://restcountries.eu/data/eri.svg",
+    "cioc": "ERI",
+    "name": "Eritrea",
+    "alpha2Code": "ER",
+    "alpha3Code": "ERI",
+    "altSpellings": ["ER", "State of Eritrea", "ሃገረ ኤርትራ", "Dawlat Iritriyá", "ʾErtrā", "Iritriyā", ""],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [15.0, 39.0]
+}, {
+    "flag": "https://restcountries.eu/data/est.svg",
+    "cioc": "EST",
+    "name": "Estonia",
+    "alpha2Code": "EE",
+    "alpha3Code": "EST",
+    "altSpellings": ["EE", "Eesti", "Republic of Estonia", "Eesti Vabariik"],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [59.0, 26.0]
+}, {
+    "flag": "https://restcountries.eu/data/eth.svg",
+    "cioc": "ETH",
+    "name": "Ethiopia",
+    "alpha2Code": "ET",
+    "alpha3Code": "ETH",
+    "altSpellings": ["ET", "ʾĪtyōṗṗyā", "Federal Democratic Republic of Ethiopia", "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [8.0, 38.0]
+}, {
+    "flag": "https://restcountries.eu/data/flk.svg",
+    "cioc": "",
+    "name": "Falkland Islands (Malvinas)",
+    "alpha2Code": "FK",
+    "alpha3Code": "FLK",
+    "altSpellings": ["FK", "Islas Malvinas"],
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [-51.75, -59.0]
+}, {
+    "flag": "https://restcountries.eu/data/fro.svg",
+    "cioc": "",
+    "name": "Faroe Islands",
+    "alpha2Code": "FO",
+    "alpha3Code": "FRO",
+    "altSpellings": ["FO", "Føroyar", "Færøerne"],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [62.0, -7.0]
+}, {
+    "flag": "https://restcountries.eu/data/fji.svg",
+    "cioc": "FIJ",
+    "name": "Fiji",
+    "alpha2Code": "FJ",
+    "alpha3Code": "FJI",
+    "altSpellings": ["FJ", "Viti", "Republic of Fiji", "Matanitu ko Viti", "Fijī Gaṇarājya"],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "latlng": [-18.0, 175.0]
+}, {
+    "flag": "https://restcountries.eu/data/fin.svg",
+    "cioc": "FIN",
+    "name": "Finland",
+    "alpha2Code": "FI",
+    "alpha3Code": "FIN",
+    "altSpellings": ["FI", "Suomi", "Republic of Finland", "Suomen tasavalta", "Republiken Finland"],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [64.0, 26.0]
+}, {
+    "flag": "https://restcountries.eu/data/fra.svg",
+    "cioc": "FRA",
+    "name": "France",
+    "alpha2Code": "FR",
+    "alpha3Code": "FRA",
+    "altSpellings": ["FR", "French Republic", "République française"],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "latlng": [46.0, 2.0]
+}, {
+    "flag": "https://restcountries.eu/data/guf.svg",
+    "cioc": "",
+    "name": "French Guiana",
+    "alpha2Code": "GF",
+    "alpha3Code": "GUF",
+    "altSpellings": ["GF", "Guiana", "Guyane"],
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [4.0, -53.0]
+}, {
+    "flag": "https://restcountries.eu/data/pyf.svg",
+    "cioc": "",
+    "name": "French Polynesia",
+    "alpha2Code": "PF",
+    "alpha3Code": "PYF",
+    "altSpellings": ["PF", "Polynésie française", "French Polynesia", "Pōrīnetia Farāni"],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "latlng": [-15.0, -140.0]
+}, {
+    "flag": "https://restcountries.eu/data/atf.svg",
+    "cioc": "",
+    "name": "French Southern Territories",
+    "alpha2Code": "TF",
+    "alpha3Code": "ATF",
+    "altSpellings": ["TF"],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "latlng": [-49.25, 69.167]
+}, {
+    "flag": "https://restcountries.eu/data/gab.svg",
+    "cioc": "GAB",
+    "name": "Gabon",
+    "alpha2Code": "GA",
+    "alpha3Code": "GAB",
+    "altSpellings": ["GA", "Gabonese Republic", "République Gabonaise"],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "latlng": [-1.0, 11.75]
+}, {
+    "flag": "https://restcountries.eu/data/gmb.svg",
+    "cioc": "GAM",
+    "name": "Gambia",
+    "alpha2Code": "GM",
+    "alpha3Code": "GMB",
+    "altSpellings": ["GM", "Republic of the Gambia"],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [13.46666666, -16.56666666]
+}, {
+    "flag": "https://restcountries.eu/data/geo.svg",
+    "cioc": "GEO",
+    "name": "Georgia",
+    "alpha2Code": "GE",
+    "alpha3Code": "GEO",
+    "altSpellings": ["GE", "Sakartvelo"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [42.0, 43.5]
+}, {
+    "flag": "https://restcountries.eu/data/deu.svg",
+    "cioc": "GER",
+    "name": "Germany",
+    "alpha2Code": "DE",
+    "alpha3Code": "DEU",
+    "altSpellings": ["DE", "Federal Republic of Germany", "Bundesrepublik Deutschland"],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "latlng": [51.0, 9.0]
+}, {
+    "flag": "https://restcountries.eu/data/gha.svg",
+    "cioc": "GHA",
+    "name": "Ghana",
+    "alpha2Code": "GH",
+    "alpha3Code": "GHA",
+    "altSpellings": ["GH"],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [8.0, -2.0]
+}, {
+    "flag": "https://restcountries.eu/data/gib.svg",
+    "cioc": "",
+    "name": "Gibraltar",
+    "alpha2Code": "GI",
+    "alpha3Code": "GIB",
+    "altSpellings": ["GI"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [36.13333333, -5.35]
+}, {
+    "flag": "https://restcountries.eu/data/grc.svg",
+    "cioc": "GRE",
+    "name": "Greece",
+    "alpha2Code": "GR",
+    "alpha3Code": "GRC",
+    "altSpellings": ["GR", "Elláda", "Hellenic Republic", "Ελληνική Δημοκρατία"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [39.0, 22.0]
+}, {
+    "flag": "https://restcountries.eu/data/grl.svg",
+    "cioc": "",
+    "name": "Greenland",
+    "alpha2Code": "GL",
+    "alpha3Code": "GRL",
+    "altSpellings": ["GL", "Grønland"],
+    "region": "Americas",
+    "subregion": "Northern America",
+    "latlng": [72.0, -40.0]
+}, {
+    "flag": "https://restcountries.eu/data/grd.svg",
+    "cioc": "GRN",
+    "name": "Grenada",
+    "alpha2Code": "GD",
+    "alpha3Code": "GRD",
+    "altSpellings": ["GD"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [12.11666666, -61.66666666]
+}, {
+    "flag": "https://restcountries.eu/data/glp.svg",
+    "cioc": "",
+    "name": "Guadeloupe",
+    "alpha2Code": "GP",
+    "alpha3Code": "GLP",
+    "altSpellings": ["GP", "Gwadloup"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [16.25, -61.583333]
+}, {
+    "flag": "https://restcountries.eu/data/gum.svg",
+    "cioc": "GUM",
+    "name": "Guam",
+    "alpha2Code": "GU",
+    "alpha3Code": "GUM",
+    "altSpellings": ["GU", "Guåhån"],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "latlng": [13.46666666, 144.78333333]
+}, {
+    "flag": "https://restcountries.eu/data/gtm.svg",
+    "cioc": "GUA",
+    "name": "Guatemala",
+    "alpha2Code": "GT",
+    "alpha3Code": "GTM",
+    "altSpellings": ["GT"],
+    "region": "Americas",
+    "subregion": "Central America",
+    "latlng": [15.5, -90.25]
+}, {
+    "flag": "https://restcountries.eu/data/ggy.svg",
+    "cioc": "",
+    "name": "Guernsey",
+    "alpha2Code": "GG",
+    "alpha3Code": "GGY",
+    "altSpellings": ["GG", "Bailiwick of Guernsey", "Bailliage de Guernesey"],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [49.46666666, -2.58333333]
+}, {
+    "flag": "https://restcountries.eu/data/gin.svg",
+    "cioc": "GUI",
+    "name": "Guinea",
+    "alpha2Code": "GN",
+    "alpha3Code": "GIN",
+    "altSpellings": ["GN", "Republic of Guinea", "République de Guinée"],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [11.0, -10.0]
+}, {
+    "flag": "https://restcountries.eu/data/gnb.svg",
+    "cioc": "GBS",
+    "name": "Guinea-Bissau",
+    "alpha2Code": "GW",
+    "alpha3Code": "GNB",
+    "altSpellings": ["GW", "Republic of Guinea-Bissau", "República da Guiné-Bissau"],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [12.0, -15.0]
+}, {
+    "flag": "https://restcountries.eu/data/guy.svg",
+    "cioc": "GUY",
+    "name": "Guyana",
+    "alpha2Code": "GY",
+    "alpha3Code": "GUY",
+    "altSpellings": ["GY", "Co-operative Republic of Guyana"],
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [5.0, -59.0]
+}, {
+    "flag": "https://restcountries.eu/data/hti.svg",
+    "cioc": "HAI",
+    "name": "Haiti",
+    "alpha2Code": "HT",
+    "alpha3Code": "HTI",
+    "altSpellings": ["HT", "Republic of Haiti", "République d'Haïti", "Repiblik Ayiti"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [19.0, -72.41666666]
+}, {
+    "flag": "https://restcountries.eu/data/hmd.svg",
+    "cioc": "",
+    "name": "Heard Island and McDonald Islands",
+    "alpha2Code": "HM",
+    "alpha3Code": "HMD",
+    "altSpellings": ["HM"],
+    "region": "",
+    "subregion": "",
+    "latlng": [-53.1, 72.51666666]
+}, {
+    "flag": "https://restcountries.eu/data/vat.svg",
+    "cioc": "",
+    "name": "Holy See",
+    "alpha2Code": "VA",
+    "alpha3Code": "VAT",
+    "altSpellings": ["Sancta Sedes", "Vatican", "The Vatican"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [41.9, 12.45]
+}, {
+    "flag": "https://restcountries.eu/data/hnd.svg",
+    "cioc": "HON",
+    "name": "Honduras",
+    "alpha2Code": "HN",
+    "alpha3Code": "HND",
+    "altSpellings": ["HN", "Republic of Honduras", "República de Honduras"],
+    "region": "Americas",
+    "subregion": "Central America",
+    "latlng": [15.0, -86.5]
+}, {
+    "flag": "https://restcountries.eu/data/hkg.svg",
+    "cioc": "HKG",
+    "name": "Hong Kong",
+    "alpha2Code": "HK",
+    "alpha3Code": "HKG",
+    "altSpellings": ["HK", "香港"],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "latlng": [22.25, 114.16666666]
+}, {
+    "flag": "https://restcountries.eu/data/hun.svg",
+    "cioc": "HUN",
+    "name": "Hungary",
+    "alpha2Code": "HU",
+    "alpha3Code": "HUN",
+    "altSpellings": ["HU"],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "latlng": [47.0, 20.0]
+}, {
+    "flag": "https://restcountries.eu/data/isl.svg",
+    "cioc": "ISL",
+    "name": "Iceland",
+    "alpha2Code": "IS",
+    "alpha3Code": "ISL",
+    "altSpellings": ["IS", "Island", "Republic of Iceland", "Lýðveldið Ísland"],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [65.0, -18.0]
+}, {
+    "flag": "https://restcountries.eu/data/ind.svg",
+    "cioc": "IND",
+    "name": "India",
+    "alpha2Code": "IN",
+    "alpha3Code": "IND",
+    "altSpellings": ["IN", "Bhārat", "Republic of India", "Bharat Ganrajya"],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "latlng": [20.0, 77.0]
+}, {
+    "flag": "https://restcountries.eu/data/idn.svg",
+    "cioc": "INA",
+    "name": "Indonesia",
+    "alpha2Code": "ID",
+    "alpha3Code": "IDN",
+    "altSpellings": ["ID", "Republic of Indonesia", "Republik Indonesia"],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [-5.0, 120.0]
+}, {
+    "flag": "https://restcountries.eu/data/civ.svg",
+    "cioc": "CIV",
+    "name": "Côte d'Ivoire",
+    "alpha2Code": "CI",
+    "alpha3Code": "CIV",
+    "altSpellings": ["CI", "Ivory Coast", "Republic of Côte d'Ivoire", "République de Côte d'Ivoire"],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [8.0, -5.0]
+}, {
+    "flag": "https://restcountries.eu/data/irn.svg",
+    "cioc": "IRI",
+    "name": "Iran (Islamic Republic of)",
+    "alpha2Code": "IR",
+    "alpha3Code": "IRN",
+    "altSpellings": ["IR", "Islamic Republic of Iran", "Jomhuri-ye Eslāmi-ye Irān"],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "latlng": [32.0, 53.0]
+}, {
+    "flag": "https://restcountries.eu/data/irq.svg",
+    "cioc": "IRQ",
+    "name": "Iraq",
+    "alpha2Code": "IQ",
+    "alpha3Code": "IRQ",
+    "altSpellings": ["IQ", "Republic of Iraq", "Jumhūriyyat al-‘Irāq"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [33.0, 44.0]
+}, {
+    "flag": "https://restcountries.eu/data/irl.svg",
+    "cioc": "IRL",
+    "name": "Ireland",
+    "alpha2Code": "IE",
+    "alpha3Code": "IRL",
+    "altSpellings": ["IE", "Éire", "Republic of Ireland", "Poblacht na hÉireann"],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [53.0, -8.0]
+}, {
+    "flag": "https://restcountries.eu/data/imn.svg",
+    "cioc": "",
+    "name": "Isle of Man",
+    "alpha2Code": "IM",
+    "alpha3Code": "IMN",
+    "altSpellings": ["IM", "Ellan Vannin", "Mann", "Mannin"],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [54.25, -4.5]
+}, {
+    "flag": "https://restcountries.eu/data/isr.svg",
+    "cioc": "ISR",
+    "name": "Israel",
+    "alpha2Code": "IL",
+    "alpha3Code": "ISR",
+    "altSpellings": ["IL", "State of Israel", "Medīnat Yisrā'el"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [31.5, 34.75]
+}, {
+    "flag": "https://restcountries.eu/data/ita.svg",
+    "cioc": "ITA",
+    "name": "Italy",
+    "alpha2Code": "IT",
+    "alpha3Code": "ITA",
+    "altSpellings": ["IT", "Italian Republic", "Repubblica italiana"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [42.83333333, 12.83333333]
+}, {
+    "flag": "https://restcountries.eu/data/jam.svg",
+    "cioc": "JAM",
+    "name": "Jamaica",
+    "alpha2Code": "JM",
+    "alpha3Code": "JAM",
+    "altSpellings": ["JM"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [18.25, -77.5]
+}, {
+    "flag": "https://restcountries.eu/data/jpn.svg",
+    "cioc": "JPN",
+    "name": "Japan",
+    "alpha2Code": "JP",
+    "alpha3Code": "JPN",
+    "altSpellings": ["JP", "Nippon", "Nihon"],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "latlng": [36.0, 138.0]
+}, {
+    "flag": "https://restcountries.eu/data/jey.svg",
+    "cioc": "",
+    "name": "Jersey",
+    "alpha2Code": "JE",
+    "alpha3Code": "JEY",
+    "altSpellings": ["JE", "Bailiwick of Jersey", "Bailliage de Jersey", "Bailliage dé Jèrri"],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [49.25, -2.16666666]
+}, {
+    "flag": "https://restcountries.eu/data/jor.svg",
+    "cioc": "JOR",
+    "name": "Jordan",
+    "alpha2Code": "JO",
+    "alpha3Code": "JOR",
+    "altSpellings": ["JO", "Hashemite Kingdom of Jordan", "al-Mamlakah al-Urdunīyah al-Hāshimīyah"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [31.0, 36.0]
+}, {
+    "flag": "https://restcountries.eu/data/kaz.svg",
+    "cioc": "KAZ",
+    "name": "Kazakhstan",
+    "alpha2Code": "KZ",
+    "alpha3Code": "KAZ",
+    "altSpellings": ["KZ", "Qazaqstan", "Казахстан", "Republic of Kazakhstan", "Қазақстан Республикасы", "Qazaqstan Respublïkası", "Республика Казахстан", "Respublika Kazakhstan"],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "latlng": [48.0, 68.0]
+}, {
+    "flag": "https://restcountries.eu/data/ken.svg",
+    "cioc": "KEN",
+    "name": "Kenya",
+    "alpha2Code": "KE",
+    "alpha3Code": "KEN",
+    "altSpellings": ["KE", "Republic of Kenya", "Jamhuri ya Kenya"],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [1.0, 38.0]
+}, {
+    "flag": "https://restcountries.eu/data/kir.svg",
+    "cioc": "KIR",
+    "name": "Kiribati",
+    "alpha2Code": "KI",
+    "alpha3Code": "KIR",
+    "altSpellings": ["KI", "Republic of Kiribati", "Ribaberiki Kiribati"],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "latlng": [1.41666666, 173.0]
+}, {
+    "flag": "https://restcountries.eu/data/kwt.svg",
+    "cioc": "KUW",
+    "name": "Kuwait",
+    "alpha2Code": "KW",
+    "alpha3Code": "KWT",
+    "altSpellings": ["KW", "State of Kuwait", "Dawlat al-Kuwait"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [29.5, 45.75]
+}, {
+    "flag": "https://restcountries.eu/data/kgz.svg",
+    "cioc": "KGZ",
+    "name": "Kyrgyzstan",
+    "alpha2Code": "KG",
+    "alpha3Code": "KGZ",
+    "altSpellings": ["KG", "Киргизия", "Kyrgyz Republic", "Кыргыз Республикасы", "Kyrgyz Respublikasy"],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "latlng": [41.0, 75.0]
+}, {
+    "flag": "https://restcountries.eu/data/lao.svg",
+    "cioc": "LAO",
+    "name": "Lao People's Democratic Republic",
+    "alpha2Code": "LA",
+    "alpha3Code": "LAO",
+    "altSpellings": ["LA", "Lao", "Laos", "Lao People's Democratic Republic", "Sathalanalat Paxathipatai Paxaxon Lao"],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [18.0, 105.0]
+}, {
+    "flag": "https://restcountries.eu/data/lva.svg",
+    "cioc": "LAT",
+    "name": "Latvia",
+    "alpha2Code": "LV",
+    "alpha3Code": "LVA",
+    "altSpellings": ["LV", "Republic of Latvia", "Latvijas Republika"],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [57.0, 25.0]
+}, {
+    "flag": "https://restcountries.eu/data/lbn.svg",
+    "cioc": "LIB",
+    "name": "Lebanon",
+    "alpha2Code": "LB",
+    "alpha3Code": "LBN",
+    "altSpellings": ["LB", "Lebanese Republic", "Al-Jumhūrīyah Al-Libnānīyah"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [33.83333333, 35.83333333]
+}, {
+    "flag": "https://restcountries.eu/data/lso.svg",
+    "cioc": "LES",
+    "name": "Lesotho",
+    "alpha2Code": "LS",
+    "alpha3Code": "LSO",
+    "altSpellings": ["LS", "Kingdom of Lesotho", "Muso oa Lesotho"],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "latlng": [-29.5, 28.5]
+}, {
+    "flag": "https://restcountries.eu/data/lbr.svg",
+    "cioc": "LBR",
+    "name": "Liberia",
+    "alpha2Code": "LR",
+    "alpha3Code": "LBR",
+    "altSpellings": ["LR", "Republic of Liberia"],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [6.5, -9.5]
+}, {
+    "flag": "https://restcountries.eu/data/lby.svg",
+    "cioc": "LBA",
+    "name": "Libya",
+    "alpha2Code": "LY",
+    "alpha3Code": "LBY",
+    "altSpellings": ["LY", "State of Libya", "Dawlat Libya"],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "latlng": [25.0, 17.0]
+}, {
+    "flag": "https://restcountries.eu/data/lie.svg",
+    "cioc": "LIE",
+    "name": "Liechtenstein",
+    "alpha2Code": "LI",
+    "alpha3Code": "LIE",
+    "altSpellings": ["LI", "Principality of Liechtenstein", "Fürstentum Liechtenstein"],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "latlng": [47.26666666, 9.53333333]
+}, {
+    "flag": "https://restcountries.eu/data/ltu.svg",
+    "cioc": "LTU",
+    "name": "Lithuania",
+    "alpha2Code": "LT",
+    "alpha3Code": "LTU",
+    "altSpellings": ["LT", "Republic of Lithuania", "Lietuvos Respublika"],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [56.0, 24.0]
+}, {
+    "flag": "https://restcountries.eu/data/lux.svg",
+    "cioc": "LUX",
+    "name": "Luxembourg",
+    "alpha2Code": "LU",
+    "alpha3Code": "LUX",
+    "altSpellings": ["LU", "Grand Duchy of Luxembourg", "Grand-Duché de Luxembourg", "Großherzogtum Luxemburg", "Groussherzogtum Lëtzebuerg"],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "latlng": [49.75, 6.16666666]
+}, {
+    "flag": "https://restcountries.eu/data/mac.svg",
+    "cioc": "",
+    "name": "Macao",
+    "alpha2Code": "MO",
+    "alpha3Code": "MAC",
+    "altSpellings": ["MO", "澳门", "Macao Special Administrative Region of the People's Republic of China", "中華人民共和國澳門特別行政區", "Região Administrativa Especial de Macau da República Popular da China"],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "latlng": [22.16666666, 113.55]
+}, {
+    "flag": "https://restcountries.eu/data/mkd.svg",
+    "cioc": "MKD",
+    "name": "Macedonia (the former Yugoslav Republic of)",
+    "alpha2Code": "MK",
+    "alpha3Code": "MKD",
+    "altSpellings": ["MK", "Republic of Macedonia", "Република Македонија"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [41.83333333, 22.0]
+}, {
+    "flag": "https://restcountries.eu/data/mdg.svg",
+    "cioc": "MAD",
+    "name": "Madagascar",
+    "alpha2Code": "MG",
+    "alpha3Code": "MDG",
+    "altSpellings": ["MG", "Republic of Madagascar", "Repoblikan'i Madagasikara", "République de Madagascar"],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [-20.0, 47.0]
+}, {
+    "flag": "https://restcountries.eu/data/mwi.svg",
+    "cioc": "MAW",
+    "name": "Malawi",
+    "alpha2Code": "MW",
+    "alpha3Code": "MWI",
+    "altSpellings": ["MW", "Republic of Malawi"],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [-13.5, 34.0]
+}, {
+    "flag": "https://restcountries.eu/data/mys.svg",
+    "cioc": "MAS",
+    "name": "Malaysia",
+    "alpha2Code": "MY",
+    "alpha3Code": "MYS",
+    "altSpellings": ["MY"],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [2.5, 112.5]
+}, {
+    "flag": "https://restcountries.eu/data/mdv.svg",
+    "cioc": "MDV",
+    "name": "Maldives",
+    "alpha2Code": "MV",
+    "alpha3Code": "MDV",
+    "altSpellings": ["MV", "Maldive Islands", "Republic of the Maldives", "Dhivehi Raajjeyge Jumhooriyya"],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "latlng": [3.25, 73.0]
+}, {
+    "flag": "https://restcountries.eu/data/mli.svg",
+    "cioc": "MLI",
+    "name": "Mali",
+    "alpha2Code": "ML",
+    "alpha3Code": "MLI",
+    "altSpellings": ["ML", "Republic of Mali", "République du Mali"],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [17.0, -4.0]
+}, {
+    "flag": "https://restcountries.eu/data/mlt.svg",
+    "cioc": "MLT",
+    "name": "Malta",
+    "alpha2Code": "MT",
+    "alpha3Code": "MLT",
+    "altSpellings": ["MT", "Republic of Malta", "Repubblika ta' Malta"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [35.83333333, 14.58333333]
+}, {
+    "flag": "https://restcountries.eu/data/mhl.svg",
+    "cioc": "MHL",
+    "name": "Marshall Islands",
+    "alpha2Code": "MH",
+    "alpha3Code": "MHL",
+    "altSpellings": ["MH", "Republic of the Marshall Islands", "Aolepān Aorōkin M̧ajeļ"],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "latlng": [9.0, 168.0]
+}, {
+    "flag": "https://restcountries.eu/data/mtq.svg",
+    "cioc": "",
+    "name": "Martinique",
+    "alpha2Code": "MQ",
+    "alpha3Code": "MTQ",
+    "altSpellings": ["MQ"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [14.666667, -61.0]
+}, {
+    "flag": "https://restcountries.eu/data/mrt.svg",
+    "cioc": "MTN",
+    "name": "Mauritania",
+    "alpha2Code": "MR",
+    "alpha3Code": "MRT",
+    "altSpellings": ["MR", "Islamic Republic of Mauritania", "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah"],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [20.0, -12.0]
+}, {
+    "flag": "https://restcountries.eu/data/mus.svg",
+    "cioc": "MRI",
+    "name": "Mauritius",
+    "alpha2Code": "MU",
+    "alpha3Code": "MUS",
+    "altSpellings": ["MU", "Republic of Mauritius", "République de Maurice"],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [-20.28333333, 57.55]
+}, {
+    "flag": "https://restcountries.eu/data/myt.svg",
+    "cioc": "",
+    "name": "Mayotte",
+    "alpha2Code": "YT",
+    "alpha3Code": "MYT",
+    "altSpellings": ["YT", "Department of Mayotte", "Département de Mayotte"],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [-12.83333333, 45.16666666]
+}, {
+    "flag": "https://restcountries.eu/data/mex.svg",
+    "cioc": "MEX",
+    "name": "Mexico",
+    "alpha2Code": "MX",
+    "alpha3Code": "MEX",
+    "altSpellings": ["MX", "Mexicanos", "United Mexican States", "Estados Unidos Mexicanos"],
+    "region": "Americas",
+    "subregion": "Central America",
+    "latlng": [23.0, -102.0]
+}, {
+    "flag": "https://restcountries.eu/data/fsm.svg",
+    "cioc": "FSM",
+    "name": "Micronesia (Federated States of)",
+    "alpha2Code": "FM",
+    "alpha3Code": "FSM",
+    "altSpellings": ["FM", "Federated States of Micronesia"],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "latlng": [6.91666666, 158.25]
+}, {
+    "flag": "https://restcountries.eu/data/mda.svg",
+    "cioc": "MDA",
+    "name": "Moldova (Republic of)",
+    "alpha2Code": "MD",
+    "alpha3Code": "MDA",
+    "altSpellings": ["MD", "Republic of Moldova", "Republica Moldova"],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "latlng": [47.0, 29.0]
+}, {
+    "flag": "https://restcountries.eu/data/mco.svg",
+    "cioc": "MON",
+    "name": "Monaco",
+    "alpha2Code": "MC",
+    "alpha3Code": "MCO",
+    "altSpellings": ["MC", "Principality of Monaco", "Principauté de Monaco"],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "latlng": [43.73333333, 7.4]
+}, {
+    "flag": "https://restcountries.eu/data/mng.svg",
+    "cioc": "MGL",
+    "name": "Mongolia",
+    "alpha2Code": "MN",
+    "alpha3Code": "MNG",
+    "altSpellings": ["MN"],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "latlng": [46.0, 105.0]
+}, {
+    "flag": "https://restcountries.eu/data/mne.svg",
+    "cioc": "MNE",
+    "name": "Montenegro",
+    "alpha2Code": "ME",
+    "alpha3Code": "MNE",
+    "altSpellings": ["ME", "Crna Gora"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [42.5, 19.3]
+}, {
+    "flag": "https://restcountries.eu/data/msr.svg",
+    "cioc": "",
+    "name": "Montserrat",
+    "alpha2Code": "MS",
+    "alpha3Code": "MSR",
+    "altSpellings": ["MS"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [16.75, -62.2]
+}, {
+    "flag": "https://restcountries.eu/data/mar.svg",
+    "cioc": "MAR",
+    "name": "Morocco",
+    "alpha2Code": "MA",
+    "alpha3Code": "MAR",
+    "altSpellings": ["MA", "Kingdom of Morocco", "Al-Mamlakah al-Maġribiyah"],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "latlng": [32.0, -5.0]
+}, {
+    "flag": "https://restcountries.eu/data/moz.svg",
+    "cioc": "MOZ",
+    "name": "Mozambique",
+    "alpha2Code": "MZ",
+    "alpha3Code": "MOZ",
+    "altSpellings": ["MZ", "Republic of Mozambique", "República de Moçambique"],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [-18.25, 35.0]
+}, {
+    "flag": "https://restcountries.eu/data/mmr.svg",
+    "cioc": "MYA",
+    "name": "Myanmar",
+    "alpha2Code": "MM",
+    "alpha3Code": "MMR",
+    "altSpellings": ["MM", "Burma", "Republic of the Union of Myanmar", "Pyidaunzu Thanmăda Myăma Nainngandaw"],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [22.0, 98.0]
+}, {
+    "flag": "https://restcountries.eu/data/nam.svg",
+    "cioc": "NAM",
+    "name": "Namibia",
+    "alpha2Code": "NA",
+    "alpha3Code": "NAM",
+    "altSpellings": ["NA", "Namibië", "Republic of Namibia"],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "latlng": [-22.0, 17.0]
+}, {
+    "flag": "https://restcountries.eu/data/nru.svg",
+    "cioc": "NRU",
+    "name": "Nauru",
+    "alpha2Code": "NR",
+    "alpha3Code": "NRU",
+    "altSpellings": ["NR", "Naoero", "Pleasant Island", "Republic of Nauru", "Ripublik Naoero"],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "latlng": [-0.53333333, 166.91666666]
+}, {
+    "flag": "https://restcountries.eu/data/npl.svg",
+    "cioc": "NEP",
+    "name": "Nepal",
+    "alpha2Code": "NP",
+    "alpha3Code": "NPL",
+    "altSpellings": ["NP", "Federal Democratic Republic of Nepal", "Loktāntrik Ganatantra Nepāl"],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "latlng": [28.0, 84.0]
+}, {
+    "flag": "https://restcountries.eu/data/nld.svg",
+    "cioc": "NED",
+    "name": "Netherlands",
+    "alpha2Code": "NL",
+    "alpha3Code": "NLD",
+    "altSpellings": ["NL", "Holland", "Nederland"],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "latlng": [52.5, 5.75]
+}, {
+    "flag": "https://restcountries.eu/data/ncl.svg",
+    "cioc": "",
+    "name": "New Caledonia",
+    "alpha2Code": "NC",
+    "alpha3Code": "NCL",
+    "altSpellings": ["NC"],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "latlng": [-21.5, 165.5]
+}, {
+    "flag": "https://restcountries.eu/data/nzl.svg",
+    "cioc": "NZL",
+    "name": "New Zealand",
+    "alpha2Code": "NZ",
+    "alpha3Code": "NZL",
+    "altSpellings": ["NZ", "Aotearoa"],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "latlng": [-41.0, 174.0]
+}, {
+    "flag": "https://restcountries.eu/data/nic.svg",
+    "cioc": "NCA",
+    "name": "Nicaragua",
+    "alpha2Code": "NI",
+    "alpha3Code": "NIC",
+    "altSpellings": ["NI", "Republic of Nicaragua", "República de Nicaragua"],
+    "region": "Americas",
+    "subregion": "Central America",
+    "latlng": [13.0, -85.0]
+}, {
+    "flag": "https://restcountries.eu/data/ner.svg",
+    "cioc": "NIG",
+    "name": "Niger",
+    "alpha2Code": "NE",
+    "alpha3Code": "NER",
+    "altSpellings": ["NE", "Nijar", "Republic of Niger", "République du Niger"],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [16.0, 8.0]
+}, {
+    "flag": "https://restcountries.eu/data/nga.svg",
+    "cioc": "NGR",
+    "name": "Nigeria",
+    "alpha2Code": "NG",
+    "alpha3Code": "NGA",
+    "altSpellings": ["NG", "Nijeriya", "Naíjíríà", "Federal Republic of Nigeria"],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [10.0, 8.0]
+}, {
+    "flag": "https://restcountries.eu/data/niu.svg",
+    "cioc": "",
+    "name": "Niue",
+    "alpha2Code": "NU",
+    "alpha3Code": "NIU",
+    "altSpellings": ["NU"],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "latlng": [-19.03333333, -169.86666666]
+}, {
+    "flag": "https://restcountries.eu/data/nfk.svg",
+    "cioc": "",
+    "name": "Norfolk Island",
+    "alpha2Code": "NF",
+    "alpha3Code": "NFK",
+    "altSpellings": ["NF", "Territory of Norfolk Island", "Teratri of Norf'k Ailen"],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "latlng": [-29.03333333, 167.95]
+}, {
+    "flag": "https://restcountries.eu/data/prk.svg",
+    "cioc": "PRK",
+    "name": "Korea (Democratic People's Republic of)",
+    "alpha2Code": "KP",
+    "alpha3Code": "PRK",
+    "altSpellings": ["KP", "Democratic People's Republic of Korea", "조선민주주의인민공화국", "Chosŏn Minjujuŭi Inmin Konghwaguk"],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "latlng": [40.0, 127.0]
+}, {
+    "flag": "https://restcountries.eu/data/mnp.svg",
+    "cioc": "",
+    "name": "Northern Mariana Islands",
+    "alpha2Code": "MP",
+    "alpha3Code": "MNP",
+    "altSpellings": ["MP", "Commonwealth of the Northern Mariana Islands", "Sankattan Siha Na Islas Mariånas"],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "latlng": [15.2, 145.75]
+}, {
+    "flag": "https://restcountries.eu/data/nor.svg",
+    "cioc": "NOR",
+    "name": "Norway",
+    "alpha2Code": "NO",
+    "alpha3Code": "NOR",
+    "altSpellings": ["NO", "Norge", "Noreg", "Kingdom of Norway", "Kongeriket Norge", "Kongeriket Noreg"],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [62.0, 10.0]
+}, {
+    "flag": "https://restcountries.eu/data/omn.svg",
+    "cioc": "OMA",
+    "name": "Oman",
+    "alpha2Code": "OM",
+    "alpha3Code": "OMN",
+    "altSpellings": ["OM", "Sultanate of Oman", "Salṭanat ʻUmān"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [21.0, 57.0]
+}, {
+    "flag": "https://restcountries.eu/data/pak.svg",
+    "cioc": "PAK",
+    "name": "Pakistan",
+    "alpha2Code": "PK",
+    "alpha3Code": "PAK",
+    "altSpellings": ["PK", "Pākistān", "Islamic Republic of Pakistan", "Islāmī Jumhūriya'eh Pākistān"],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "latlng": [30.0, 70.0]
+}, {
+    "flag": "https://restcountries.eu/data/plw.svg",
+    "cioc": "PLW",
+    "name": "Palau",
+    "alpha2Code": "PW",
+    "alpha3Code": "PLW",
+    "altSpellings": ["PW", "Republic of Palau", "Beluu er a Belau"],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "latlng": [7.5, 134.5]
+}, {
+    "flag": "https://restcountries.eu/data/pse.svg",
+    "cioc": "PLE",
+    "name": "Palestine, State of",
+    "alpha2Code": "PS",
+    "alpha3Code": "PSE",
+    "altSpellings": ["PS", "State of Palestine", "Dawlat Filasṭin"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [31.9, 35.2]
+}, {
+    "flag": "https://restcountries.eu/data/pan.svg",
+    "cioc": "PAN",
+    "name": "Panama",
+    "alpha2Code": "PA",
+    "alpha3Code": "PAN",
+    "altSpellings": ["PA", "Republic of Panama", "República de Panamá"],
+    "region": "Americas",
+    "subregion": "Central America",
+    "latlng": [9.0, -80.0]
+}, {
+    "flag": "https://restcountries.eu/data/png.svg",
+    "cioc": "PNG",
+    "name": "Papua New Guinea",
+    "alpha2Code": "PG",
+    "alpha3Code": "PNG",
+    "altSpellings": ["PG", "Independent State of Papua New Guinea", "Independen Stet bilong Papua Niugini"],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "latlng": [-6.0, 147.0]
+}, {
+    "flag": "https://restcountries.eu/data/pry.svg",
+    "cioc": "PAR",
+    "name": "Paraguay",
+    "alpha2Code": "PY",
+    "alpha3Code": "PRY",
+    "altSpellings": ["PY", "Republic of Paraguay", "República del Paraguay", "Tetã Paraguái"],
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [-23.0, -58.0]
+}, {
+    "flag": "https://restcountries.eu/data/per.svg",
+    "cioc": "PER",
+    "name": "Peru",
+    "alpha2Code": "PE",
+    "alpha3Code": "PER",
+    "altSpellings": ["PE", "Republic of Peru", " República del Perú"],
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [-10.0, -76.0]
+}, {
+    "flag": "https://restcountries.eu/data/phl.svg",
+    "cioc": "PHI",
+    "name": "Philippines",
+    "alpha2Code": "PH",
+    "alpha3Code": "PHL",
+    "altSpellings": ["PH", "Republic of the Philippines", "Repúblika ng Pilipinas"],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [13.0, 122.0]
+}, {
+    "flag": "https://restcountries.eu/data/pcn.svg",
+    "cioc": "",
+    "name": "Pitcairn",
+    "alpha2Code": "PN",
+    "alpha3Code": "PCN",
+    "altSpellings": ["PN", "Pitcairn Henderson Ducie and Oeno Islands"],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "latlng": [-25.06666666, -130.1]
+}, {
+    "flag": "https://restcountries.eu/data/pol.svg",
+    "cioc": "POL",
+    "name": "Poland",
+    "alpha2Code": "PL",
+    "alpha3Code": "POL",
+    "altSpellings": ["PL", "Republic of Poland", "Rzeczpospolita Polska"],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "latlng": [52.0, 20.0]
+}, {
+    "flag": "https://restcountries.eu/data/prt.svg",
+    "cioc": "POR",
+    "name": "Portugal",
+    "alpha2Code": "PT",
+    "alpha3Code": "PRT",
+    "altSpellings": ["PT", "Portuguesa", "Portuguese Republic", "República Portuguesa"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [39.5, -8.0]
+}, {
+    "flag": "https://restcountries.eu/data/pri.svg",
+    "cioc": "PUR",
+    "name": "Puerto Rico",
+    "alpha2Code": "PR",
+    "alpha3Code": "PRI",
+    "altSpellings": ["PR", "Commonwealth of Puerto Rico", "Estado Libre Asociado de Puerto Rico"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [18.25, -66.5]
+}, {
+    "flag": "https://restcountries.eu/data/qat.svg",
+    "cioc": "QAT",
+    "name": "Qatar",
+    "alpha2Code": "QA",
+    "alpha3Code": "QAT",
+    "altSpellings": ["QA", "State of Qatar", "Dawlat Qaṭar"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [25.5, 51.25]
+}, {
+    "flag": "https://restcountries.eu/data/kos.svg",
+    "name": "Republic of Kosovo",
+    "alpha2Code": "XK",
+    "alpha3Code": "KOS",
+    "altSpellings": ["XK", "Република Косово"],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "latlng": [42.666667, 21.166667]
+}, {
+    "flag": "https://restcountries.eu/data/reu.svg",
+    "cioc": "",
+    "name": "Réunion",
+    "alpha2Code": "RE",
+    "alpha3Code": "REU",
+    "altSpellings": ["RE", "Reunion"],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [-21.15, 55.5]
+}, {
+    "flag": "https://restcountries.eu/data/rou.svg",
+    "cioc": "ROU",
+    "name": "Romania",
+    "alpha2Code": "RO",
+    "alpha3Code": "ROU",
+    "altSpellings": ["RO", "Rumania", "Roumania", "România"],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "latlng": [46.0, 25.0]
+}, {
+    "flag": "https://restcountries.eu/data/rus.svg",
+    "cioc": "RUS",
+    "name": "Russian Federation",
+    "alpha2Code": "RU",
+    "alpha3Code": "RUS",
+    "altSpellings": ["RU", "Rossiya", "Russian Federation", "Российская Федерация", "Rossiyskaya Federatsiya"],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "latlng": [60.0, 100.0]
+}, {
+    "flag": "https://restcountries.eu/data/rwa.svg",
+    "cioc": "RWA",
+    "name": "Rwanda",
+    "alpha2Code": "RW",
+    "alpha3Code": "RWA",
+    "altSpellings": ["RW", "Republic of Rwanda", "Repubulika y'u Rwanda", "République du Rwanda"],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [-2.0, 30.0]
+}, {
+    "flag": "https://restcountries.eu/data/blm.svg",
+    "cioc": "",
+    "name": "Saint Barthélemy",
+    "alpha2Code": "BL",
+    "alpha3Code": "BLM",
+    "altSpellings": ["BL", "St. Barthelemy", "Collectivity of Saint Barthélemy", "Collectivité de Saint-Barthélemy"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [18.5, -63.41666666]
+}, {
+    "flag": "https://restcountries.eu/data/shn.svg",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "alpha2Code": "SH",
+    "alpha3Code": "SHN",
+    "altSpellings": ["SH"],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [-15.95, -5.7]
+}, {
+    "flag": "https://restcountries.eu/data/kna.svg",
+    "cioc": "SKN",
+    "name": "Saint Kitts and Nevis",
+    "alpha2Code": "KN",
+    "alpha3Code": "KNA",
+    "altSpellings": ["KN", "Federation of Saint Christopher and Nevis"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [17.33333333, -62.75]
+}, {
+    "flag": "https://restcountries.eu/data/lca.svg",
+    "cioc": "LCA",
+    "name": "Saint Lucia",
+    "alpha2Code": "LC",
+    "alpha3Code": "LCA",
+    "altSpellings": ["LC"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [13.88333333, -60.96666666]
+}, {
+    "flag": "https://restcountries.eu/data/maf.svg",
+    "cioc": "",
+    "name": "Saint Martin (French part)",
+    "alpha2Code": "MF",
+    "alpha3Code": "MAF",
+    "altSpellings": ["MF", "Collectivity of Saint Martin", "Collectivité de Saint-Martin"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [18.08333333, -63.95]
+}, {
+    "flag": "https://restcountries.eu/data/spm.svg",
+    "cioc": "",
+    "name": "Saint Pierre and Miquelon",
+    "alpha2Code": "PM",
+    "alpha3Code": "SPM",
+    "altSpellings": ["PM", "Collectivité territoriale de Saint-Pierre-et-Miquelon"],
+    "region": "Americas",
+    "subregion": "Northern America",
+    "latlng": [46.83333333, -56.33333333]
+}, {
+    "flag": "https://restcountries.eu/data/vct.svg",
+    "cioc": "VIN",
+    "name": "Saint Vincent and the Grenadines",
+    "alpha2Code": "VC",
+    "alpha3Code": "VCT",
+    "altSpellings": ["VC"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [13.25, -61.2]
+}, {
+    "flag": "https://restcountries.eu/data/wsm.svg",
+    "cioc": "SAM",
+    "name": "Samoa",
+    "alpha2Code": "WS",
+    "alpha3Code": "WSM",
+    "altSpellings": ["WS", "Independent State of Samoa", "Malo Saʻoloto Tutoʻatasi o Sāmoa"],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "latlng": [-13.58333333, -172.33333333]
+}, {
+    "flag": "https://restcountries.eu/data/smr.svg",
+    "cioc": "SMR",
+    "name": "San Marino",
+    "alpha2Code": "SM",
+    "alpha3Code": "SMR",
+    "altSpellings": ["SM", "Republic of San Marino", "Repubblica di San Marino"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [43.76666666, 12.41666666]
+}, {
+    "flag": "https://restcountries.eu/data/stp.svg",
+    "cioc": "STP",
+    "name": "Sao Tome and Principe",
+    "alpha2Code": "ST",
+    "alpha3Code": "STP",
+    "altSpellings": ["ST", "Democratic Republic of São Tomé and Príncipe", "República Democrática de São Tomé e Príncipe"],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "latlng": [1.0, 7.0]
+}, {
+    "flag": "https://restcountries.eu/data/sau.svg",
+    "cioc": "KSA",
+    "name": "Saudi Arabia",
+    "alpha2Code": "SA",
+    "alpha3Code": "SAU",
+    "altSpellings": ["SA", "Kingdom of Saudi Arabia", "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [25.0, 45.0]
+}, {
+    "flag": "https://restcountries.eu/data/sen.svg",
+    "cioc": "SEN",
+    "name": "Senegal",
+    "alpha2Code": "SN",
+    "alpha3Code": "SEN",
+    "altSpellings": ["SN", "Republic of Senegal", "République du Sénégal"],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [14.0, -14.0]
+}, {
+    "flag": "https://restcountries.eu/data/srb.svg",
+    "cioc": "SRB",
+    "name": "Serbia",
+    "alpha2Code": "RS",
+    "alpha3Code": "SRB",
+    "altSpellings": ["RS", "Srbija", "Republic of Serbia", "Република Србија", "Republika Srbija"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [44.0, 21.0]
+}, {
+    "flag": "https://restcountries.eu/data/syc.svg",
+    "cioc": "SEY",
+    "name": "Seychelles",
+    "alpha2Code": "SC",
+    "alpha3Code": "SYC",
+    "altSpellings": ["SC", "Republic of Seychelles", "Repiblik Sesel", "République des Seychelles"],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [-4.58333333, 55.66666666]
+}, {
+    "flag": "https://restcountries.eu/data/sle.svg",
+    "cioc": "SLE",
+    "name": "Sierra Leone",
+    "alpha2Code": "SL",
+    "alpha3Code": "SLE",
+    "altSpellings": ["SL", "Republic of Sierra Leone"],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [8.5, -11.5]
+}, {
+    "flag": "https://restcountries.eu/data/sgp.svg",
+    "cioc": "SIN",
+    "name": "Singapore",
+    "alpha2Code": "SG",
+    "alpha3Code": "SGP",
+    "altSpellings": ["SG", "Singapura", "Republik Singapura", "新加坡共和国"],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [1.36666666, 103.8]
+}, {
+    "flag": "https://restcountries.eu/data/sxm.svg",
+    "cioc": "",
+    "name": "Sint Maarten (Dutch part)",
+    "alpha2Code": "SX",
+    "alpha3Code": "SXM",
+    "altSpellings": ["SX"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [18.033333, -63.05]
+}, {
+    "flag": "https://restcountries.eu/data/svk.svg",
+    "cioc": "SVK",
+    "name": "Slovakia",
+    "alpha2Code": "SK",
+    "alpha3Code": "SVK",
+    "altSpellings": ["SK", "Slovak Republic", "Slovenská republika"],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "latlng": [48.66666666, 19.5]
+}, {
+    "flag": "https://restcountries.eu/data/svn.svg",
+    "cioc": "SLO",
+    "name": "Slovenia",
+    "alpha2Code": "SI",
+    "alpha3Code": "SVN",
+    "altSpellings": ["SI", "Republic of Slovenia", "Republika Slovenija"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [46.11666666, 14.81666666]
+}, {
+    "flag": "https://restcountries.eu/data/slb.svg",
+    "cioc": "SOL",
+    "name": "Solomon Islands",
+    "alpha2Code": "SB",
+    "alpha3Code": "SLB",
+    "altSpellings": ["SB"],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "latlng": [-8.0, 159.0]
+}, {
+    "flag": "https://restcountries.eu/data/som.svg",
+    "cioc": "SOM",
+    "name": "Somalia",
+    "alpha2Code": "SO",
+    "alpha3Code": "SOM",
+    "altSpellings": ["SO", "aṣ-Ṣūmāl", "Federal Republic of Somalia", "Jamhuuriyadda Federaalka Soomaaliya", "Jumhūriyyat aṣ-Ṣūmāl al-Fiderāliyya"],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [10.0, 49.0]
+}, {
+    "flag": "https://restcountries.eu/data/zaf.svg",
+    "cioc": "RSA",
+    "name": "South Africa",
+    "alpha2Code": "ZA",
+    "alpha3Code": "ZAF",
+    "altSpellings": ["ZA", "RSA", "Suid-Afrika", "Republic of South Africa"],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "latlng": [-29.0, 24.0]
+}, {
+    "flag": "https://restcountries.eu/data/sgs.svg",
+    "cioc": "",
+    "name": "South Georgia and the South Sandwich Islands",
+    "alpha2Code": "GS",
+    "alpha3Code": "SGS",
+    "altSpellings": ["GS", "South Georgia and the South Sandwich Islands"],
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [-54.5, -37.0]
+}, {
+    "flag": "https://restcountries.eu/data/kor.svg",
+    "cioc": "KOR",
+    "name": "Korea (Republic of)",
+    "alpha2Code": "KR",
+    "alpha3Code": "KOR",
+    "altSpellings": ["KR", "Republic of Korea"],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "latlng": [37.0, 127.5]
+}, {
+    "flag": "https://restcountries.eu/data/ssd.svg",
+    "cioc": "",
+    "name": "South Sudan",
+    "alpha2Code": "SS",
+    "alpha3Code": "SSD",
+    "altSpellings": ["SS"],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "latlng": [7.0, 30.0]
+}, {
+    "flag": "https://restcountries.eu/data/esp.svg",
+    "cioc": "ESP",
+    "name": "Spain",
+    "alpha2Code": "ES",
+    "alpha3Code": "ESP",
+    "altSpellings": ["ES", "Kingdom of Spain", "Reino de España"],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "latlng": [40.0, -4.0]
+}, {
+    "flag": "https://restcountries.eu/data/lka.svg",
+    "cioc": "SRI",
+    "name": "Sri Lanka",
+    "alpha2Code": "LK",
+    "alpha3Code": "LKA",
+    "altSpellings": ["LK", "ilaṅkai", "Democratic Socialist Republic of Sri Lanka"],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "latlng": [7.0, 81.0]
+}, {
+    "flag": "https://restcountries.eu/data/sdn.svg",
+    "cioc": "SUD",
+    "name": "Sudan",
+    "alpha2Code": "SD",
+    "alpha3Code": "SDN",
+    "altSpellings": ["SD", "Republic of the Sudan", "Jumhūrīyat as-Sūdān"],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "latlng": [15.0, 30.0]
+}, {
+    "flag": "https://restcountries.eu/data/sur.svg",
+    "cioc": "SUR",
+    "name": "Suriname",
+    "alpha2Code": "SR",
+    "alpha3Code": "SUR",
+    "altSpellings": ["SR", "Sarnam", "Sranangron", "Republic of Suriname", "Republiek Suriname"],
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [4.0, -56.0]
+}, {
+    "flag": "https://restcountries.eu/data/sjm.svg",
+    "cioc": "",
+    "name": "Svalbard and Jan Mayen",
+    "alpha2Code": "SJ",
+    "alpha3Code": "SJM",
+    "altSpellings": ["SJ", "Svalbard and Jan Mayen Islands"],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [78.0, 20.0]
+}, {
+    "flag": "https://restcountries.eu/data/swz.svg",
+    "cioc": "SWZ",
+    "name": "Swaziland",
+    "alpha2Code": "SZ",
+    "alpha3Code": "SWZ",
+    "altSpellings": ["SZ", "weSwatini", "Swatini", "Ngwane", "Kingdom of Swaziland", "Umbuso waseSwatini"],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "latlng": [-26.5, 31.5]
+}, {
+    "flag": "https://restcountries.eu/data/swe.svg",
+    "cioc": "SWE",
+    "name": "Sweden",
+    "alpha2Code": "SE",
+    "alpha3Code": "SWE",
+    "altSpellings": ["SE", "Kingdom of Sweden", "Konungariket Sverige"],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [62.0, 15.0]
+}, {
+    "flag": "https://restcountries.eu/data/che.svg",
+    "cioc": "SUI",
+    "name": "Switzerland",
+    "alpha2Code": "CH",
+    "alpha3Code": "CHE",
+    "altSpellings": ["CH", "Swiss Confederation", "Schweiz", "Suisse", "Svizzera", "Svizra"],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "latlng": [47.0, 8.0]
+}, {
+    "flag": "https://restcountries.eu/data/syr.svg",
+    "cioc": "SYR",
+    "name": "Syrian Arab Republic",
+    "alpha2Code": "SY",
+    "alpha3Code": "SYR",
+    "altSpellings": ["SY", "Syrian Arab Republic", "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [35.0, 38.0]
+}, {
+    "flag": "https://restcountries.eu/data/twn.svg",
+    "cioc": "TPE",
+    "name": "Taiwan",
+    "alpha2Code": "TW",
+    "alpha3Code": "TWN",
+    "altSpellings": ["TW", "Táiwān", "Republic of China", "中華民國", "Zhōnghuá Mínguó"],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "latlng": [23.5, 121.0]
+}, {
+    "flag": "https://restcountries.eu/data/tjk.svg",
+    "cioc": "TJK",
+    "name": "Tajikistan",
+    "alpha2Code": "TJ",
+    "alpha3Code": "TJK",
+    "altSpellings": ["TJ", "Toçikiston", "Republic of Tajikistan", "Ҷумҳурии Тоҷикистон", "Çumhuriyi Toçikiston"],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "latlng": [39.0, 71.0]
+}, {
+    "flag": "https://restcountries.eu/data/tza.svg",
+    "cioc": "TAN",
+    "name": "Tanzania, United Republic of",
+    "alpha2Code": "TZ",
+    "alpha3Code": "TZA",
+    "altSpellings": ["TZ", "United Republic of Tanzania", "Jamhuri ya Muungano wa Tanzania"],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [-6.0, 35.0]
+}, {
+    "flag": "https://restcountries.eu/data/tha.svg",
+    "cioc": "THA",
+    "name": "Thailand",
+    "alpha2Code": "TH",
+    "alpha3Code": "THA",
+    "altSpellings": ["TH", "Prathet", "Thai", "Kingdom of Thailand", "ราชอาณาจักรไทย", "Ratcha Anachak Thai"],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [15.0, 100.0]
+}, {
+    "flag": "https://restcountries.eu/data/tls.svg",
+    "cioc": "TLS",
+    "name": "Timor-Leste",
+    "alpha2Code": "TL",
+    "alpha3Code": "TLS",
+    "altSpellings": ["TL", "East Timor", "Democratic Republic of Timor-Leste", "República Democrática de Timor-Leste", "Repúblika Demokrátika Timór-Leste"],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [-8.83333333, 125.91666666]
+}, {
+    "flag": "https://restcountries.eu/data/tgo.svg",
+    "cioc": "TOG",
+    "name": "Togo",
+    "alpha2Code": "TG",
+    "alpha3Code": "TGO",
+    "altSpellings": ["TG", "Togolese", "Togolese Republic", "République Togolaise"],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "latlng": [8.0, 1.16666666]
+}, {
+    "flag": "https://restcountries.eu/data/tkl.svg",
+    "cioc": "",
+    "name": "Tokelau",
+    "alpha2Code": "TK",
+    "alpha3Code": "TKL",
+    "altSpellings": ["TK"],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "latlng": [-9.0, -172.0]
+}, {
+    "flag": "https://restcountries.eu/data/ton.svg",
+    "cioc": "TGA",
+    "name": "Tonga",
+    "alpha2Code": "TO",
+    "alpha3Code": "TON",
+    "altSpellings": ["TO"],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "latlng": [-20.0, -175.0]
+}, {
+    "flag": "https://restcountries.eu/data/tto.svg",
+    "cioc": "TTO",
+    "name": "Trinidad and Tobago",
+    "alpha2Code": "TT",
+    "alpha3Code": "TTO",
+    "altSpellings": ["TT", "Republic of Trinidad and Tobago"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [11.0, -61.0]
+}, {
+    "flag": "https://restcountries.eu/data/tun.svg",
+    "cioc": "TUN",
+    "name": "Tunisia",
+    "alpha2Code": "TN",
+    "alpha3Code": "TUN",
+    "altSpellings": ["TN", "Republic of Tunisia", "al-Jumhūriyyah at-Tūnisiyyah"],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "latlng": [34.0, 9.0]
+}, {
+    "flag": "https://restcountries.eu/data/tur.svg",
+    "cioc": "TUR",
+    "name": "Turkey",
+    "alpha2Code": "TR",
+    "alpha3Code": "TUR",
+    "altSpellings": ["TR", "Turkiye", "Republic of Turkey", "Türkiye Cumhuriyeti"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [39.0, 35.0]
+}, {
+    "flag": "https://restcountries.eu/data/tkm.svg",
+    "cioc": "TKM",
+    "name": "Turkmenistan",
+    "alpha2Code": "TM",
+    "alpha3Code": "TKM",
+    "altSpellings": ["TM"],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "latlng": [40.0, 60.0]
+}, {
+    "flag": "https://restcountries.eu/data/tca.svg",
+    "cioc": "",
+    "name": "Turks and Caicos Islands",
+    "alpha2Code": "TC",
+    "alpha3Code": "TCA",
+    "altSpellings": ["TC"],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "latlng": [21.75, -71.58333333]
+}, {
+    "flag": "https://restcountries.eu/data/tuv.svg",
+    "cioc": "TUV",
+    "name": "Tuvalu",
+    "alpha2Code": "TV",
+    "alpha3Code": "TUV",
+    "altSpellings": ["TV"],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "latlng": [-8.0, 178.0]
+}, {
+    "flag": "https://restcountries.eu/data/uga.svg",
+    "cioc": "UGA",
+    "name": "Uganda",
+    "alpha2Code": "UG",
+    "alpha3Code": "UGA",
+    "altSpellings": ["UG", "Republic of Uganda", "Jamhuri ya Uganda"],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [1.0, 32.0]
+}, {
+    "flag": "https://restcountries.eu/data/ukr.svg",
+    "cioc": "UKR",
+    "name": "Ukraine",
+    "alpha2Code": "UA",
+    "alpha3Code": "UKR",
+    "altSpellings": ["UA", "Ukrayina"],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "latlng": [49.0, 32.0]
+}, {
+    "flag": "https://restcountries.eu/data/are.svg",
+    "cioc": "UAE",
+    "name": "United Arab Emirates",
+    "alpha2Code": "AE",
+    "alpha3Code": "ARE",
+    "altSpellings": ["AE", "UAE"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [24.0, 54.0]
+}, {
+    "flag": "https://restcountries.eu/data/gbr.svg",
+    "cioc": "GBR",
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "alpha2Code": "GB",
+    "alpha3Code": "GBR",
+    "altSpellings": ["GB", "UK", "Great Britain"],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "latlng": [54.0, -2.0]
+}, {
+    "flag": "https://restcountries.eu/data/usa.svg",
+    "cioc": "USA",
+    "name": "United States of America",
+    "alpha2Code": "US",
+    "alpha3Code": "USA",
+    "altSpellings": ["US", "USA", "United States of America"],
+    "region": "Americas",
+    "subregion": "Northern America",
+    "latlng": [38.0, -97.0]
+}, {
+    "flag": "https://restcountries.eu/data/ury.svg",
+    "cioc": "URU",
+    "name": "Uruguay",
+    "alpha2Code": "UY",
+    "alpha3Code": "URY",
+    "altSpellings": ["UY", "Oriental Republic of Uruguay", "República Oriental del Uruguay"],
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [-33.0, -56.0]
+}, {
+    "flag": "https://restcountries.eu/data/uzb.svg",
+    "cioc": "UZB",
+    "name": "Uzbekistan",
+    "alpha2Code": "UZ",
+    "alpha3Code": "UZB",
+    "altSpellings": ["UZ", "Republic of Uzbekistan", "O‘zbekiston Respublikasi", "Ўзбекистон Республикаси"],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "latlng": [41.0, 64.0]
+}, {
+    "flag": "https://restcountries.eu/data/vut.svg",
+    "cioc": "VAN",
+    "name": "Vanuatu",
+    "alpha2Code": "VU",
+    "alpha3Code": "VUT",
+    "altSpellings": ["VU", "Republic of Vanuatu", "Ripablik blong Vanuatu", "République de Vanuatu"],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "latlng": [-16.0, 167.0]
+}, {
+    "flag": "https://restcountries.eu/data/ven.svg",
+    "cioc": "VEN",
+    "name": "Venezuela (Bolivarian Republic of)",
+    "alpha2Code": "VE",
+    "alpha3Code": "VEN",
+    "altSpellings": ["VE", "Bolivarian Republic of Venezuela", "República Bolivariana de Venezuela"],
+    "region": "Americas",
+    "subregion": "South America",
+    "latlng": [8.0, -66.0]
+}, {
+    "flag": "https://restcountries.eu/data/vnm.svg",
+    "cioc": "VIE",
+    "name": "Viet Nam",
+    "alpha2Code": "VN",
+    "alpha3Code": "VNM",
+    "altSpellings": ["VN", "Socialist Republic of Vietnam", "Cộng hòa Xã hội chủ nghĩa Việt Nam"],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "latlng": [16.16666666, 107.83333333]
+}, {
+    "flag": "https://restcountries.eu/data/wlf.svg",
+    "cioc": "",
+    "name": "Wallis and Futuna",
+    "alpha2Code": "WF",
+    "alpha3Code": "WLF",
+    "altSpellings": ["WF", "Territory of the Wallis and Futuna Islands", "Territoire des îles Wallis et Futuna"],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "latlng": [-13.3, -176.2]
+}, {
+    "flag": "https://restcountries.eu/data/esh.svg",
+    "cioc": "",
+    "name": "Western Sahara",
+    "alpha2Code": "EH",
+    "alpha3Code": "ESH",
+    "altSpellings": ["EH", "Taneẓroft Tutrimt"],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "latlng": [24.5, -13.0]
+}, {
+    "flag": "https://restcountries.eu/data/yem.svg",
+    "cioc": "YEM",
+    "name": "Yemen",
+    "alpha2Code": "YE",
+    "alpha3Code": "YEM",
+    "altSpellings": ["YE", "Yemeni Republic", "al-Jumhūriyyah al-Yamaniyyah"],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "latlng": [15.0, 48.0]
+}, {
+    "flag": "https://restcountries.eu/data/zmb.svg",
+    "cioc": "ZAM",
+    "name": "Zambia",
+    "alpha2Code": "ZM",
+    "alpha3Code": "ZMB",
+    "altSpellings": ["ZM", "Republic of Zambia"],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [-15.0, 30.0]
+}, {
+    "flag": "https://restcountries.eu/data/zwe.svg",
+    "cioc": "ZIM",
+    "name": "Zimbabwe",
+    "alpha2Code": "ZW",
+    "alpha3Code": "ZWE",
+    "altSpellings": ["ZW", "Republic of Zimbabwe"],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "latlng": [-20.0, 30.0]
+}]
