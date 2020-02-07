@@ -3,10 +3,13 @@ const morgan = require('morgan');
 const helmet = require('helmet');
 const cors = require('cors');
 const compression = require('compression');
+const rateLimit = require('express-rate-limit');
 
 const request = require('request');
 const cheerio = require('cheerio');
 const useragents = require('user-agents');
+
+require('dotenv').config();
 
 const COUNTRIES = require('./data/countries.json');
 
@@ -15,8 +18,14 @@ const app = express();
 app.use(compression());
 app.use(morgan('common'));
 app.use(helmet());
-app.use(cors());
 app.use(express.json());
+app.use(cors({
+  origin: process.env.CORS_ORIGIN
+}));
+app.use(rateLimit({
+  windowMs: 5 * 60 * 1000,
+  max: 10
+}))
 
 app.get('/', (req, res) => {
   res.send('👍');
@@ -29,8 +38,8 @@ app.get('/map-data', (req, res) => {
     },
   };
 
-  request.get('https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases', requestOptions, (error, response, body) => {
-    if (response.statusCode === 200) {
+  request.get(process.env.ENDPOINT_URL, requestOptions, (error, response, body) => {
+    if (response && response.statusCode === 200) {
       const mapData = [];
 
       const $ = cheerio.load(body);
