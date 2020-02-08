@@ -20,12 +20,35 @@ app.use(morgan('common'));
 app.use(helmet());
 app.use(express.json());
 app.use(cors({
-  origin: process.env.CORS_ORIGIN
+  origin: process.env.CORS_ORIGIN,
 }));
 app.use(rateLimit({
   windowMs: 5 * 60 * 1000,
-  max: 10
-}))
+  max: 10,
+}));
+
+const CONTINENTS = ['africa', 'antarctica', 'asia', 'australia', 'europe', 'north america', 'south america', 'america', 'oceania'];
+
+const checkOnExactName = (arr, t, idx) => arr[idx].name.toLowerCase() === t.toLowerCase();
+const checkNameIncludes = (arr, t, idx) => arr[idx].name.toLowerCase().includes(t.toLowerCase());
+const checkOnExactAlternativeName = (arr, t, idx) => arr[idx].altSpellings.some((altName) => altName.toLowerCase() === t.toLowerCase());
+const checkAlternativeNameIncludes = (arr, t, idx) => arr[idx].altSpellings.some((altName) => altName.toLowerCase().includes(t.toLowerCase()));
+
+const binarySearch = (fn, array, term) => {
+  let start = 0;
+  let end = array.length - 1;
+  let middle = Math.floor((end + start) / 2);
+
+  while (!fn(array, term, middle) && start <= end) {
+    if (term.toLowerCase() < array[middle].name.toLowerCase()) {
+      end = middle - 1;
+    } else if (term.toLowerCase() > array[middle].name.toLowerCase()) {
+      start = middle + 1;
+    }
+    middle = Math.floor((end + start) / 2);
+  }
+  return !fn(array, term, middle) ? null : array[middle];
+};
 
 app.get('/', (req, res) => {
   res.send('👍');
@@ -45,26 +68,22 @@ app.get('/map-data', (req, res) => {
       const $ = cheerio.load(body);
 
       $('div.field--item > div > table.table.table-bordered.table-condensed.table-striped > tbody > tr').each((idx, element) => {
-        if (!$(element).find('td:nth-child(1)').text().startsWith('Total')) {
-          const continent = $(element).find('td:nth-child(1)').text();
-          const countryTerritoryArea = $(element).find('td:nth-child(2)').text();
-          const confirmedCases = $(element).find('td:nth-child(3)').text();
-          const deaths = $(element).find('td:nth-child(4)').text();
+        const continent = $(element).find('td:nth-child(1)').text();
+        const countryTerritoryArea = $(element).find('td:nth-child(2)').text();
+        const confirmedCases = $(element).find('td:nth-child(3)').text();
+        const deaths = $(element).find('td:nth-child(4)').text();
 
-          // latitude and logitude
+        if (CONTINENTS.includes(continent.toLowerCase())) {
+          // getting latitude and logitude from json file
           // search for same name
-          let found = COUNTRIES.find((c) => c.name.toLowerCase() === countryTerritoryArea.toLowerCase());
+          let found = binarySearch(checkOnExactName, COUNTRIES, countryTerritoryArea);
           if (!found) {
             // search for portion of same name
-            found = COUNTRIES.find((c) => c.name.toLowerCase().includes(countryTerritoryArea.toLowerCase()));
-          }
-          if (!found) {
-            // search for same alternative name
-            found = COUNTRIES.find((c1) => c1.altSpellings.some((c2) => c2.toLowerCase() === countryTerritoryArea.toLowerCase()));
+            found = binarySearch(checkNameIncludes, COUNTRIES, countryTerritoryArea);
           }
           if (!found) {
             // search for portion of alternative name
-            found = COUNTRIES.find((c1) => c1.altSpellings.some((c2) => c2.toLowerCase().includes(countryTerritoryArea.toLowerCase())));
+            found = binarySearch(checkAlternativeNameIncludes, COUNTRIES, countryTerritoryArea);
           }
 
           mapData.push({
