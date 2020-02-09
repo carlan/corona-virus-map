@@ -96,3 +96,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## 🤝 Acknowledgments
 
 * favicon and logo image from [OpenClipart](https://openclipart.org)
+* virus data from [ECDC](https://www.ecdc.europa.eu)
