@@ -22,8 +22,8 @@ A full stack application to show information about the Coronavirus areas affecte
         - [x] Add map controls for zoom in and out
     - [x] Show a pin on locations affected
         - [x] Add popup with more information in case pin is clicked
-    - [ ] Create a dashboard view
     - [ ] Split app in components
+    - [ ] Create a dashboard view
     - [ ] Update README.md
 - [ ] Setup server
     - [x] Create a Node.js application
@@ -43,7 +43,7 @@ A full stack application to show information about the Coronavirus areas affecte
 
 ## 🏁 Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### 📜 Prerequisites
 
@@ -52,29 +52,35 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### ⏳ Installing
 
-To get the development environment running you'll need to follow the steps below.
+To get a copy and run this application, you'll need at least [Node.js](https://nodejs.org) (and npm) installed on your computer. [Git](https://git-scm.com) is optional as you can download a zip and have it extracted.
 
-Install the dependencies of client and run the application:
+If you want to follow the git clone route:
+
+```bash
+# Clone the repository
+$ git clone https://github.com/carlan/corona-virus-map
+
+# Go into the cloned repository directory
+$ cd corona-virus-map
+```
+
+With Node.js installed. Let's install the dependencies of `client` and run the application:
 
 ```bash
 $ cd client
+# Add the map TOKEN on the enviroment configuration file
+$ cp .env.sample .env
+# Edit the file (.env) in your prefered editor and place your TOKEN on REACT_APP_MapboxAccessToken=<HERE>
 $ npm install <OR> yarn install
 $ npm start <OR> yarn start
 ```
 
-Install the dependencies of client and run the application:
+Now, install the dependencies of `server` and run the application:
 
 ```bash
 $ cd server
 $ npm install <OR> yarn install
 $ npm start <OR> yarn start
-```
-
-Add the TOKEN on the enviroment configuration file:
-
-```bash
-$ cp .env.sample .env
-Edit the file (.env) in your prefered editor and place your TOKEN on REACT_APP_MapboxAccessToken=<HERE>
 ```
 
 Opening the application on http://localhost:3000 you should be able to see a map with the affected locations of Coronavirus along with some case information for each region/country and map view options.
