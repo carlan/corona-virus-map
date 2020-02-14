@@ -22,7 +22,7 @@ A full stack application to show information about the Coronavirus areas affecte
         - [x] Add map controls for zoom in and out
     - [x] Show a pin on locations affected
         - [x] Add popup with more information in case pin is clicked
-    - [ ] Split app in components
+    - [x] Split app in components
     - [ ] Create a dashboard view
     - [ ] Update README.md
 - [ ] Setup server
